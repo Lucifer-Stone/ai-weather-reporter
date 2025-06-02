@@ -1,1 +1,1 @@
-# ai-weather-reporter
+# AI-Weather-Reporter
