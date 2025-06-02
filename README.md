@@ -8,22 +8,22 @@ Other Tools : N8N (https://n8n.io/)
 Loom Video Link : https://www.loom.com/share/8b5304a0a5d240f49f8016a79fa0f129
 Link to Loom : https://www.loom.com/looms/videos
 
-Lovable ->  (mohd.salman.ms971@gmail.com, trader.robinhood971@gmail.com [Code])
+Lovable ->  (mohd.salman.ms971@gmail.com, trader.robinhood971@gmail.com [Code])  <br/>
   Link to the Web Form : https://friendly-form-launch.lovable.app/
 
-Make.com -> (mohd.salman.ms971@gmail.com)
+Make.com -> (mohd.salman.ms971@gmail.com)  <br/>
   Link to the Make Scenario : https://eu2.make.com/1963981/team/dashboard
   Scenario Name : Integration Webhooks
 
-Dumpling AI -> (mohd.salman.ms971@gmail.com, wolverinemds7@gmail.com)
+Dumpling AI -> (mohd.salman.ms971@gmail.com, wolverinemds7@gmail.com)  <br/>
   https://app.dumplingai.com/
 
-WeatherAPI -> (mohd.salman.ms971@gmail.com)
+WeatherAPI -> (mohd.salman.ms971@gmail.com)  <br/>
   Link to the WeatherAPI : https://www.weatherapi.com/my/
 
-Supabase -> (mohd.salman.ms971@gmail.com)
+Supabase -> (mohd.salman.ms971@gmail.com)  <br/>
   Link to the Supabase database : https://supabase.com/dashboard/project/afczstzjjcvuuwrcxjmi
   Table Name : weather_logs
 
-Mailjet -> (mohd.salman.ms971@gmail.com)
+Mailjet -> (mohd.salman.ms971@gmail.com)  <br/>
   Link to the Mailjet Dashboard : https://app.mailjet.com/dashboard
