@@ -1,3 +1,5 @@
+# Sample Postman POST Request
+
 {
     "name": "Salman Mohammed",
     "email": "wolverinemds7@gmail.com",
