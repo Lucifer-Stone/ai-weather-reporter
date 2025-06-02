@@ -2,7 +2,7 @@
 
 Task Link : https://docs.google.com/document/d/1oEpC48BVp64cSKS_ll7EW900mfSXEzTLSYNFKoo9-Qs/edit?pli=1&tab=t.0#heading=h.ky90gzvdh3ux
 
-Tools used : Lovable, Make.com, Dumpling AI, WeatherAPI, Supabase, Sinch Mailjet
+Tools used : Lovable, Make.com, Dumpling AI, WeatherAPI, Supabase, Sinch Mailjet <br/>
 Other Tools : N8N (https://n8n.io/)
 
 Loom Video Link : https://www.loom.com/share/8b5304a0a5d240f49f8016a79fa0f129
